@@ -1,0 +1,21 @@
+id,date,time,location,road_condition,weather,severity,vehicle_type,num_vehicles_involved,num_injuries,num_fatalities,speed_limit,lighting_condition,police_report,alcohol_involved
+1,2026-01-05,08:30,Highway 44,Dry,Clear,Minor,Car,2,1,0,80,Daylight,Yes,No
+2,2026-01-05,18:45,City Center,Wet,Rain,Severe,Bike,1,2,1,40,Streetlights,Yes,Yes
+3,2026-01-06,22:15,Highway 9,Dry,Fog,Moderate,Truck,3,3,0,60,Night,Yes,No
+4,2026-01-07,14:00,Market Road,Wet,Rain,Minor,Car,2,0,0,50,Daylight,No,No
+5,2026-01-08,07:50,Airport Road,Dry,Clear,Severe,Bus,1,5,0,70,Daylight,Yes,No
+6,2026-01-09,20:10,Highway 44,Wet,Rain,Moderate,Car,2,2,0,80,Night,Yes,Yes
+7,2026-01-10,12:30,City Center,Dry,Clear,Minor,Bike,1,0,0,40,Daylight,No,No
+8,2026-01-11,23:45,Highway 9,Dry,Fog,Severe,Truck,2,4,1,60,Night,Yes,Yes
+9,2026-01-12,16:20,Market Road,Wet,Rain,Moderate,Car,2,1,0,50,Daylight,Yes,No
+10,2026-01-13,09:15,Airport Road,Dry,Clear,Minor,Car,1,0,0,70,Daylight,No,No
+11,2026-01-14,18:00,Highway 44,Wet,Rain,Severe,Bus,2,6,1,80,Streetlights,Yes,Yes
+12,2026-01-15,07:20,City Center,Dry,Clear,Minor,Car,1,0,0,40,Daylight,No,No
+13,2026-01-16,21:10,Highway 9,Dry,Fog,Moderate,Truck,3,2,0,60,Night,Yes,No
+14,2026-01-17,15:30,Market Road,Wet,Rain,Minor,Bike,1,1,0,50,Daylight,Yes,No
+15,2026-01-18,08:45,Airport Road,Dry,Clear,Severe,Car,2,3,0,70,Daylight,Yes,No
+16,2026-01-19,19:25,Highway 44,Wet,Rain,Moderate,Car,2,2,0,80,Night,Yes,Yes
+17,2026-01-20,13:40,City Center,Dry,Clear,Minor,Car,1,0,0,40,Daylight,No,No
+18,2026-01-21,22:55,Highway 9,Dry,Fog,Severe,Truck,2,5,1,60,Night,Yes,Yes
+19,2026-01-22,17:15,Market Road,Wet,Rain,Moderate,Car,2,1,0,50,Daylight,Yes,No
+20,2026-01-23,10:05,Airport Road,Dry,Clear,Minor,Bike,1,0,0,70,Daylight,No,No
